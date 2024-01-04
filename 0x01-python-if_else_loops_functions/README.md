@@ -92,6 +92,6 @@ A Python function `def magic_calculation(a, b, c):` that does exactly the same a
              46 BINARY_SUBTRACT
              47 RETURN_VALUE
 ```
-[`tips - ByteCode`](https://docs.python.org/3.4/library/dis.html)  
+`tips - `[`ByteCode`](https://docs.python.org/3.4/library/dis.html)  
 File: `102-magic_calculation.py`
 
