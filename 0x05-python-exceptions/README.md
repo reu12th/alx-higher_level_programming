@@ -4,42 +4,42 @@
 
 ## 0. Safe list printing
 A function that prints `x` elements of a list.   
-* Prototype: `def safe_print_list(my_list=[], x=0):`
+* Prototype: `def safe_print_list(my_list=[], x=0):`   
 File: `0-safe_print_list.py`
 
 ## 1. Safe printing of an integers list
 A  function that prints an integer with `"{:d}".format()`.   
-* Prototype: `def safe_print_integer(value):`
+* Prototype: `def safe_print_integer(value):`   
 File: `1-safe_print_integer.py`
 
 ## 2. Print and count integers
 A function that prints first `x` elements of a list and only integers.   
-* Prototype: `def safe_print_list_integers(my_list=[], x=0):`
+* Prototype: `def safe_print_list_integers(my_list=[], x=0):`   
 File: `2-safe_print_list_integers.py`
 
 ## 3. Integers division with debug
 A function that divides 2 integers and prints the result.   
-* Prototype: `def safe_print_division(a, b):`
+* Prototype: `def safe_print_division(a, b):`   
 File: `3-safe_print_division.py`
 
 ## 4. Divide a list
 A  function that divides element by element 2 lists.   
-* Prototype: `def list_division(my_list_1, my_list_2, list_length):`
+* Prototype: `def list_division(my_list_1, my_list_2, list_length):`   
 File: `4-list_division.py`
 
 ## 5. Raise exception
 A function that raises a type exception.   
-* Prototype: `def raise_exception():`
+* Prototype: `def raise_exception():`   
 File: `5-raise_exception.py`
 
 ## 6. Raise a message
 A function that raises a name exception with a message.   
-* Prototype: `def raise_exception_msg(message=""):`
+* Prototype: `def raise_exception_msg(message=""):`   
 File: `6-raise_exception_msg.py`
 
 ## 7. Safe integer print with error message
 A function that prints an integer.   
-* Prototype: `def safe_print_integer_err(value):`
+* Prototype: `def safe_print_integer_err(value):`   
 File: `100-safe_print_integer_err.py`
 
 ## 8. Safe function
@@ -105,7 +105,7 @@ A Python function `def magic_calculation(a, b):` that does exactly the same as t
  13     >>  103 LOAD_FAST                2 (result)
             106 RETURN_VALUE
 ```
-* Tip: [`Python bytecode`](https://docs.python.org/3.4/library/dis.html)
+* Tip: [`Python bytecode`](https://docs.python.org/3.4/library/dis.html)   
 File: `102-magic_calculation.py`
 
 ## 10. CPython #2: PyFloatObject
