@@ -44,7 +44,7 @@ File: `100-safe_print_integer_err.py`
 
 ## 8. Safe function
 A function that executes a function safely. 
-* Prototype: `def safe_function(fct, *args):`
+* Prototype: `def safe_function(fct, *args):`   
 File: `101-safe_function.py`
 
 ## 9. ByteCode -> Python #4
