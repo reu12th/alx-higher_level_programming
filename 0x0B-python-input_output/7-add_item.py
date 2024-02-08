@@ -6,7 +6,8 @@ import json
 import os.path
 import sys
 
-"""importing the necessary modules to help in craeting object from JSON file and write an object text file using json representation"""
+"""importing the necessary modules to help in creating object from JSON file
+    and write an object text file using json representation"""
 enc = __import__('5-save_to_json_file').save_to_json_file
 dec = __import__('6-load_from_json_file').load_from_json_file
 
