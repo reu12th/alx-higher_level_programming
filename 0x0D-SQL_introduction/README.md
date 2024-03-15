@@ -4,6 +4,8 @@
 -   By: Guillaume
 -   Weight: 1
 
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/rtcwz.jpg)
+
 # Tasks
 
 ## 0\. List databases 
