@@ -15,7 +15,7 @@ For the moment, and for learning all basic concepts of this language, we will do
 
 # Tasks
 
-## 0\. 0. First constant, first print
+## 0\. First constant, first print
 A script that prints “JavaScript is amazing”.
 
 **Repo:**
