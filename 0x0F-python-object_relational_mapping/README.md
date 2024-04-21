@@ -3,11 +3,11 @@
 
 -   Weight: 1
 
-# Before you start…
+# Before we start…
 <b>Please make sure your MySQL server is in 8.0 -></b> [How to install MySQL 8.0 in Ubuntu 20.04](https://phoenixnap.com/kb/install-mysql-ubuntu-20-04)
 
 # Background Context
-In this project, you will link two amazing worlds: Databases and Python!
+In this project, we will link two amazing worlds: Databases and Python!
 
 In the first part, you will use the module `MySQLdb` to connect to a MySQL database and execute your SQL queries.
 
